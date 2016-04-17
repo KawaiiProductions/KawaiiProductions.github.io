@@ -1,0 +1,9 @@
+body{	
+	background-image: url("background-image");
+	background-color: #ff33ff;
+}
+
+header{
+	text-align: center;
+	background: #666666;
+}
