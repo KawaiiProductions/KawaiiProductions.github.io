@@ -1,6 +1,7 @@
-body{	
+body, container{	
 	background-image: url("background-image");
 	background-color: #ff33ff;
+	height: 100%;
 }
 
 header{
