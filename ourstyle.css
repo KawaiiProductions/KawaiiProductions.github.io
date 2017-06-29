@@ -1,11 +1,14 @@
 body {	
 	background-image: url("background-image");
-	background-size: 60%;
 }
 
 header {
 	text-align: center;
 	background: #666666;
+}
+
+img {
+	background-size: 70%;
 }
 
 /*
