@@ -1,5 +1,6 @@
 body {	
-	background-image: url("background-image"), 80%;
+	background-image: url("background-image");
+	background-size: 100px 100px;
 }
 
 header{
@@ -7,11 +8,12 @@ header{
 	background: #666666;
 }
 
+/*
 img {
-	height: 80%;
-	width: 80%;
+	height: 100px;
+	width: 100px;
 }
-/*.button {
+.button {
   display: inline-block;
   padding: 15px 25px;
   font-size: 24px;
