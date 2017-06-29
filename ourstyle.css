@@ -8,7 +8,7 @@ header {
 }
 
 img {
-	background-size: 70%;
+	background-size: 70% auto;
 }
 
 /*
