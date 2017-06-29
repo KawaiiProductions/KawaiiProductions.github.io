@@ -1,10 +1,6 @@
 body {	
 	background-image: url("background-image"), 80%;
-	height: 100%;
-	background-color: #ff33ff;
-	margin: 0;
-	padding: 0;
-	background-color: green;*/
+	background-size: 80% 60%;
 }
 
 header{
