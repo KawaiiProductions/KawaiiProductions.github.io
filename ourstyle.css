@@ -1,16 +1,14 @@
 body {	
 	background-image: url("background-image");
-	/*background-size: 80%;*/
+	background-size: 60%;
 }
 
-header{
+header {
 	text-align: center;
 	background: #666666;
 }
 
-img {
-	height: 80%;
-}/*
+/*
 .button {
   display: inline-block;
   padding: 15px 25px;
