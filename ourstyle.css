@@ -8,7 +8,9 @@ header {
 }
 
 img {
-	background-size: 70% auto;
+	<!--background-size: 70% auto;-->
+	height: 60%;
+	width: 60%;
 }
 
 /*
